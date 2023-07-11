@@ -3,6 +3,8 @@ body {
     margin: 0;
 }
 
+/*Top Bannar Section Start */
+
 .top-bannar {
     display: flex;
     padding: 5% 13%;
@@ -41,7 +43,17 @@ body {
     font-size: 20px;
     text-decoration: none;
 }
+/*Top Bannar Section End */
 
+
+
+
+
+
+
+
+
+/* Our Future Section Start */
 
 .our-feture {
     margin: 100px 200px;
@@ -62,6 +74,22 @@ body {
     padding: 50px;
 }
 
+/*  Our Future Section End   */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  Hot Deal Section Start   */
+
 .hot-deal {
     display: flex;
     border-radius: 8px;
@@ -75,6 +103,19 @@ body {
     padding-right: 150px;
 
 }
+
+
+/*  Hot Deal Section End   */
+
+
+
+
+
+
+
+
+
+/*  Instagram Section Start   */
 
 .instagram-text{
     text-align: center;
@@ -98,6 +139,16 @@ body {
     width: 250px;
 }
 
+/*  Instagram Section End   */
+
+
+
+
+
+
+
+/* Subscribe Section Start*/
+
 .subscribe{
     background-image: url(Images/Rectangle\ 9.png);
     margin: 100px 200px;
@@ -120,6 +171,17 @@ body {
 
 }
 
+/* Subscribe Section End */
+
+
+
+
+
+
+
+
+/* Footer Section Start */
+
 footer{
     background-color: black;
     padding: 50px 400px;
@@ -139,3 +201,5 @@ footer p{
 #build{
     color: rgba(255, 255, 255, 0.40);
 }
+
+/* Footer Section End */
