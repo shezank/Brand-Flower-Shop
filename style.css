@@ -1,0 +1,141 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+
+.top-bannar {
+    display: flex;
+    padding: 5% 13%;
+    background: rgba(231, 76, 110, 0.1);
+    margin-bottom: 100px;
+}
+
+.top-bannar-text {
+    padding: 10px;
+
+
+}
+
+.top-bannar-text h1 {
+    font-size: 50px;
+}
+
+.top-bannar-text p {
+    margin-bottom: 50px;
+}
+
+.top-bannar-img {
+    width: 635px;
+    height: 729px;
+    flex-shrink: 0;
+    padding-left: 10px;
+
+}
+
+.shop-btn {
+    padding: 10px 20px;
+    color: white;
+    border-radius: 8px;
+    background: #E55473;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+.our-feture {
+    margin: 100px 200px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+
+}
+
+
+.web-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.web-info div {
+    padding: 50px;
+}
+
+.hot-deal {
+    display: flex;
+    border-radius: 8px;
+    background: rgba(231, 76, 110, 0.1);
+    padding: 50px 200px;
+}
+
+.hot-deal-text{
+    text-align: center;
+    justify-content: center;
+    padding-right: 150px;
+
+}
+
+.instagram-text{
+    text-align: center;
+    margin-top: 100px;
+    padding: 10px 450px;
+}
+
+.instagram-img div{
+    padding-left: 15px;
+
+}
+
+
+.instagram-img{
+    display: flex;
+    padding: 10px 200px;
+}
+
+.instagram-img img{
+    height: 300px;
+    width: 250px;
+}
+
+.subscribe{
+    background-image: url(Images/Rectangle\ 9.png);
+    margin: 100px 200px;
+    padding: 100px 200px ;
+    text-align: center;
+    justify-content: center;
+}
+
+.subscribe-info{
+    display: flex;
+    padding-top: 30px;
+    align-items: center;
+    text-align: center;
+}
+.subscribe-email input{
+    width:500px;
+    height: 40px;
+    border-radius: 5px;
+    margin-right: 5px;
+
+}
+
+footer{
+    background-color: black;
+    padding: 50px 400px;
+    text-align: center;
+}
+
+.flower{
+    color: #E55473;
+}
+.shop{
+    color: white;
+}
+
+footer p{
+    color: white;
+}
+#build{
+    color: rgba(255, 255, 255, 0.40);
+}
